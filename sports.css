@@ -1,0 +1,499 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    color: white;
+    height: 580px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,  url( https://i2-prod.liverpool.com/incoming/article29710252.ece/ALTERNATES/s1200d/1_GettyImages-2022416244.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header ul  {
+    margin-bottom: 320px;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-size: 20px;
+    
+
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.nav-list a:hover {
+    background-color: #575757;
+}
+
+
+
+.header img {
+    margin-bottom: 320px;
+    background-color: black;
+}
+
+.body {
+    margin: 30pxs;
+}
+
+.ubax {
+    margin-bottom: 320px;
+    display: flex;
+    margin-right: 50px;
+    
+    
+}
+
+.faay {
+    
+     background-color: white;
+    box-shadow: 0px 0px 12px black;
+    margin-top: -30px;
+   
+}
+
+.faay p {
+    margin: 20px 20px;
+}
+
+.faay h3 {
+    margin: 20px 20px;
+}
+.faay img {
+    width: 260px;
+
+}
+
+
+.Sacido p {
+    margin: 20px 20px;
+}
+
+.Sacido h3 {
+    margin: 20px 20px;
+}
+.Sacido img {
+    width: 260px;
+
+}
+
+.Sacido {
+   width: 300px;
+    box-shadow: 0px 0px 12px black;
+    margin-top: -30px;
+    
+}
+
+
+.abo p {
+    margin: 20px 20px;
+}
+
+.abo h3 {
+    margin: 20px 20px;
+}
+.abo img {
+    padding: 20px;
+  height: 90px;
+
+}
+
+.abo {
+    box-shadow: 0px 0px 12px black;
+    margin-top: -30px;
+   
+}
+
+.abo button {
+    align-items: center;
+}
+
+.abo img {
+ width: 250px;
+}
+
+.hooyo p {
+    margin: 20px 20px;
+}
+
+.hooyo h3 {
+    margin: 20px 20px;
+}
+.faay img {
+    width: 260px;
+
+}
+
+.hooyo {
+    box-shadow: 0px 0px 12px black;
+    height: ;
+    margin-top: -30px;
+}
+.hooyo img {
+    width: 280px;
+}
+
+.news {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    position: absolute;
+    top: 400px;
+    bottom: 20px;
+    color: white;
+}
+
+.btn {
+    margin-top: 20px;
+    color: white;
+    padding: 10px 40px;
+    background-color: olive;
+
+}
+.news img {
+    width: 150px;
+  padding-left: 580px;
+}
+
+.news h1 {
+    margin-top: 20px;
+}
+
+.body {
+    margin:40px 80px ;
+}
+
+.sadak {
+    background-color: red;
+}
+
+.main {
+    border-radius: 12px;
+    display: flex;
+    gap: 150px;
+    width: 300px;
+    margin: 20px 80px;
+   
+}
+
+
+.revit {
+    margin: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+.revit img {
+    width: 700px;
+    border-radius: 20px;
+}
+
+.book {
+    width: 250px;
+    margin-left: 100px;
+
+}
+
+.book h6 {
+    margin: 10px;
+}
+
+.book p {
+    margin: 20px  0px;    
+  
+
+}
+
+.book button {
+    font-size: 22px;
+    background-color: blueviolet;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 8px;
+}
+
+.part {
+    height: 200%;
+    border-radius: 30px;
+    background-color: orange;
+  padding-top: 40px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+
+.caano img {
+    border-radius: 30px;
+    width: 300px;
+}
+
+.part i {
+    font-size: 30px;
+}
+
+.part img {
+    border-radius: 30px;
+}
+
+.berf {
+    margin: 30px;
+}
+
+.part1 {
+    width: 300px;
+}
+
+.part2 {
+    width: 300px;
+}
+
+.part3 {
+    width: 300px;
+}
+
+.caano {
+    width: 300px;
+}
+
+.liv {
+    color:teal;
+    text-align: center;
+    height: 100px;
+}
+
+.ali {
+  text-align: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.ali1 {
+    border-radius: 20px;
+    background-color: bisque;
+    padding: 30px 30px;
+}
+.ali2 {
+    border-radius: 20px;
+    background-color: bisque;
+    padding: 30px 30px;
+}
+.ali3 {
+    border-radius: 20px;
+    background-color: bisque;
+    padding: 30px 30px;
+}
+
+
+
+.ali1 p {
+    margin-top: 20px;
+}
+.ali2 p {
+    margin-top: 20px;
+}
+.ali3 p {
+    margin-top: 20px;
+}
+
+.ali1 img {
+    height: 120px;
+}
+
+.ali2 img {
+    height: 120px;
+}
+
+.ali3 img {
+    height: 120px;
+}
+
+
+.ali p {
+    width: 300px;
+}
+
+.ali img {
+    width: 200px;
+}
+
+.liv i {
+    font-size: 60px;
+}
+
+
+.footer{
+    height: 300px;
+    margin-top: 40px;
+background-color: paleturquoise;
+background-repeat: no-repeat;
+background-size: cover;
+    display: flex;
+    gap: 100px;
+    /* justify-content: space-between; */
+    padding: 60px 80px;
+}
+
+.footer img {
+    width: 100px;
+}
+
+
+.footer i {
+    font-size: 30px;
+    
+}
+
+
+.footer ul {
+    font-size: 25px;
+    list-style: none;
+    padding-right: 100px;
+}
+
+.baaba {
+    margin-right: 60px;
+    display: flex;
+    gap: 30px;
+}
+
+
+.footer1 p {
+    width: 300px;
+    margin: 20px 0px;
+}
+.war {
+    margin-top: 8px;
+}
+
+.war h1 {
+    font-size: 50px;
+}
+
+.war h3 {
+    margin: 20px 0px;
+}
+
+
+@media screen and (max-width:600px) 
+{
+    .header {
+        padding: 50px;
+        width: 360px;
+    }
+
+    .header ul {
+        display: none;
+    }
+
+    .header img {
+        width: 100px;
+        padding: 0px;
+    
+    }
+
+    .header i {
+        font-size: 30px;
+    }
+
+    .ubax  {
+        display: none;
+    }
+
+    .kul {
+        margin-top: -320px;
+    }
+
+    .news h1 {
+        width: 400px;
+        font-size: 20px;
+    }
+
+    .sawir2 img {
+        width: 100px;
+    }
+
+    .sawir2 {
+        flex-direction: column;
+        margin-left: -750px;
+        width: 500px;
+    }
+
+    .main {
+        flex-direction: column;
+        width: 300px;
+        margin: 40px;
+
+    }
+
+    .revit {
+        flex-direction: column;
+  
+        
+    }
+
+    .book {
+        margin: 0;
+        
+    }
+
+
+    .revit img {
+        width: 300px;
+    }
+
+    .berf  h1 {
+    font-size: 20px;        
+    }
+
+    .part {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .liv h1 {
+        font-size: 20px;
+       
+    }
+
+    .ali {
+        flex-direction: column;
+        padding: 0px;
+    }
+
+    .footer {
+        padding: 30px;
+        margin: 0px;
+        flex-direction: column;
+        width: 400px;
+        height: 1200px;
+    }
+
+    .baaba ul {
+        font-size: 15px;
+    }
+
+    .war h1 {
+        font-size: 30px;
+    }
+
+}
